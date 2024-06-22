@@ -1,3 +1,6 @@
+![](https://github.com/Ad4mu/chibi-dancer/blob/main/main.gif)
+
+
 ##  English
 _Chibi Dancer_ is intended to be a program capable of playing any `.mp4` green screen video and display it endlessly in a transparent window.
 
