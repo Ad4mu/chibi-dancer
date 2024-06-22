@@ -1,16 +1,21 @@
 ##  English
-Capable of playing any `.mp4` green screen video and display it endlessly in a transparent window.
+_Chibi Dancer_ is intended to be a program capable of playing any `.mp4` green screen video and display it endlessly in a transparent window.
 
-### Right-click context menu
-⚠️ Put a `.mp4` called` video.mp4` in the same folder as the `.exe` for it to work.
-As of now, you can only **change the size doing right-click** on the window.
-To **exit**, press Close in the context menu.
+### How it works
+⚠️ For it to work put a `.mp4` called `video.mp4` in the same folder as the `.exe`.
+- You can **change the window size** doing **_rigth-click_** and selecting the desired resolution.
+- You can also choose a custom resolution pressing **_Custom_**.
+- To **exit**, press **Close** in the context menu doing right-click.
 
+In the future I intend to add more functions.
 
 ## Español
-Capaz de reproducir cualquier video `.mp4` de pantalla verde y mostrarlo en bucle en una ventana transparente.
+_Chibi Dancer_ pretende ser un programa capaz de reproducir cualquier video `.mp4` de pantalla verde y mostrarlo en bucle en una ventana transparente.
 
 ### Funcionamiento
-⚠️ Pon un `.mp4` llamado ` video.mp4` en la misma carpeta donde pongas el `.exe` para que funcione.
-Por ahora tan solo puedes **cambiar el tamaño de la ventana** haciendo **click derecho** en la ventana.
-Para **cerrarlo** pulsa **_Close_** en el menú contextual.
+⚠️ Para que funcione pon un `.mp4` llamado ` video.mp4` en la misma carpeta donde pongas el `.exe`.
+- Puedes **cambiar el tamaño de la ventana** haciendo **_click derecho_** y seleccionando el tamaño.
+- También puedes elegir una resolución personalizada pulsando **_Custom_**.
+- Para **cerrarlo** pulsa **_Close_** en el menú contextual que se abre cuando pulsas click derecho sobre programa.
+
+En un futuro pretendo añadir más funcionalidades.
